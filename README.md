@@ -3,7 +3,7 @@
 **About**
 This Python project consists of web scraping from Goodreads website about best book ever list and exploratory data analysis from the dataset. Web scraping was used to extract the titles, links, author names, average ratings, and scores. The dataset was saved in CSV file to be analyzed for data exploration.
 
-**Libraries used **
+**Libraries used**
 Libraries used for web scraping are BeautifulSoup, requests, pandas, and csv. While for exploratory analysis are pandas, seaborn, and matplotlib.pyplot
 
 **Techniques**
